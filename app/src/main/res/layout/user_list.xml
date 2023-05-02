@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#070707"
+    android:orientation="vertical"
+    android:padding="2dp">
+    <androidx.cardview.widget.CardView xmlns:card_view="https://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardBackgroundColor="#fff"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardElevation="9dp"
+        card_view:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0665B1"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="3dp"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:padding="3dp">
+
+
+                <TextView
+                    android:visibility="invisible"
+                    android:textSize="1sp"
+                    android:id="@+id/turl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="2dp"
+                    android:text="Dear Lottery Result"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#90ECF8" />
+                <TextView
+                    android:id="@+id/tid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="4dp"
+                    android:text="04/05/2021"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#F4F2F3"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tdate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="2dp"
+                    android:text="8:00 PM"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#FFEB3B"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/ttime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="2dp"
+                    android:text="Dear Lottery Result"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#10FA19" />
+
+            </LinearLayout>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/baseline_arrow_right_24"
+                app:tint="#fff">
+            </ImageView>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

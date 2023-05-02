@@ -1,0 +1,557 @@
+{
+  "project_info": {
+    "project_number": "42304324572",
+    "firebase_url": "https://techpathak-cc391.firebaseio.com",
+    "project_id": "techpathak-cc391",
+    "storage_bucket": "techpathak-cc391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:17ca13f63a028649648519",
+        "android_client_info": {
+          "package_name": "com.rabinpathak68.Kerala_Lottery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-vb1d3qquqv6r3158fk334qcea7nap20k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rabinpathak68.Kerala_Lottery",
+            "certificate_hash": "7a3aa63525fa3faf50ce8361f8a6df9c494bb0c9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:4c20cc855c066fd1648519",
+        "android_client_info": {
+          "package_name": "com.rabinpathak68.Lottery_Sambad_Pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-g88tmdd8gmuk4u991agu2m4rnq3f8sio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rabinpathak68.Lottery_Sambad_Pro",
+            "certificate_hash": "836d53beff03419531397a1f694628a5ec4e7036"
+          }
+        },
+        {
+          "client_id": "42304324572-rcn53mfu973cql8rs4db0c0uqcfd7ka7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rabinpathak68.Lottery_Sambad_Pro",
+            "certificate_hash": "7a3aa63525fa3faf50ce8361f8a6df9c494bb0c9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:e5b9bbe8939f9b0f648519",
+        "android_client_info": {
+          "package_name": "com.rabinpathak68.keralalotterrydailyresult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-mh7bpf9v61fe04p7j7ovt1ah4i6bp99j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rabinpathak68.keralalotterrydailyresult",
+            "certificate_hash": "6da46f53141548c55fce9cb4130538e3f24d836a"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:2bcab525bf9744b2648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.ajkerrasifol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-mbrc18enbkurtfvmj93m87tdgo2c7p4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.ajkerrasifol",
+            "certificate_hash": "7a3aa63525fa3faf50ce8361f8a6df9c494bb0c9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:a24281db1d17c1a1648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.banglacalender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-kopbun59qiqvp23hcjq2njfnfdnnal4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.banglacalender",
+            "certificate_hash": "7b1153927ea5d964bbfe01494a4d601bd7bfcf43"
+          }
+        },
+        {
+          "client_id": "42304324572-lndhmt834rj13pmji8d02ab7fa44a5tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.banglacalender",
+            "certificate_hash": "e76b2cc9a43dbe13b4d8cf4be673d038187e5eb9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:1726955168507708648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.firebaserecycleview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:120db45ce11d7721648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.myadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-iuapard6ra4813kd3ug98t1c1g7610fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.myadminapp",
+            "certificate_hash": "e76b2cc9a43dbe13b4d8cf4be673d038187e5eb9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:5b383902da523834648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.mydemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:8abaff0e23e9dbef648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.nagalandlotteryresults"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-0h8lavsu1kf0gn0n8u6vpcuau3bt9j9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.nagalandlotteryresults",
+            "certificate_hash": "7a3aa63525fa3faf50ce8361f8a6df9c494bb0c9"
+          }
+        },
+        {
+          "client_id": "42304324572-flpklumqbq73j6ecrrsn96hffc957746.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.nagalandlotteryresults",
+            "certificate_hash": "e76b2cc9a43dbe13b4d8cf4be673d038187e5eb9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:3976ae3bbccf59bf648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.rajshree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-mibnvh32cn34on4kr38ihfqh8hom4ocb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.rajshree",
+            "certificate_hash": "7a3aa63525fa3faf50ce8361f8a6df9c494bb0c9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:75b91ac82b186be7648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.rajshreelottery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-7l8m070bj0r0mhpfk0i5she13dcu6oud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.rajshreelottery",
+            "certificate_hash": "e76b2cc9a43dbe13b4d8cf4be673d038187e5eb9"
+          }
+        },
+        {
+          "client_id": "42304324572-h4ns0d4n03jebkbqvqditg8bvmnpc6eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.rajshreelottery",
+            "certificate_hash": "045e725194dea3a6e1ae8b39dfa7795dc11cf398"
+          }
+        },
+        {
+          "client_id": "42304324572-j6i1jnfonk19vmun67m5maq15i3jtivo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.rajshreelottery",
+            "certificate_hash": "836d53beff03419531397a1f694628a5ec4e7036"
+          }
+        },
+        {
+          "client_id": "42304324572-pv3i3f0399umuf3abdminb15e6k4jubl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.rajshreelottery",
+            "certificate_hash": "d4b9bdfbecc8e0876c0c6538bf455cb923ce904b"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1203064237638367~4868397690"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:c2f888fa959e3138648519",
+        "android_client_info": {
+          "package_name": "com.techpathak.westbengallotteryresults"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-1gn9i6vsdaekat46ft469rahq4ik9ob8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.westbengallotteryresults",
+            "certificate_hash": "e76b2cc9a43dbe13b4d8cf4be673d038187e5eb9"
+          }
+        },
+        {
+          "client_id": "42304324572-dduam6upul88otkoceprk4259mnh1vbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.westbengallotteryresults",
+            "certificate_hash": "20a9f23a460b7a3c69774f42596597938ef8f93a"
+          }
+        },
+        {
+          "client_id": "42304324572-pmmok5t2qvj7tg0it87d5tgjn8desjj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.westbengallotteryresults",
+            "certificate_hash": "81cf8760e09d70ccc99c4189a4caffb21b231ca8"
+          }
+        },
+        {
+          "client_id": "42304324572-vje1d32udfbbop2otecl49knk8k6mt4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathak.westbengallotteryresults",
+            "certificate_hash": "836d53beff03419531397a1f694628a5ec4e7036"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42304324572:android:4b4c7709f6ae7f5b648519",
+        "android_client_info": {
+          "package_name": "io.kodular.rabinpathak68.Arunachal_Lottery_Results"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42304324572-19c8j9krg2dgjqs67lv9qd515jeh1kfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.kodular.rabinpathak68.Arunachal_Lottery_Results",
+            "certificate_hash": "836d53beff03419531397a1f694628a5ec4e7036"
+          }
+        },
+        {
+          "client_id": "42304324572-cutbr9jvf3t76gd8va9asjmnc3t7oon3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.kodular.rabinpathak68.Arunachal_Lottery_Results",
+            "certificate_hash": "7a3aa63525fa3faf50ce8361f8a6df9c494bb0c9"
+          }
+        },
+        {
+          "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotQVBQcKe2Og60sCgYFp7frnugUZEl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42304324572-35qjdcn76oeckcqildkiq2e7soio6lst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
